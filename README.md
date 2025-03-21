@@ -1,2 +1,2 @@
-# hands-on-estudo-python
+# HANDS ON 👋 
 🐍 Projetos Python para praticar com projetos
